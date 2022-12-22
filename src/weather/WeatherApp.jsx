@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
  
-// https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=74d1e22a4e08839f2a612cf8f4903ef6
 import './style.css';
 import WeatherChaild from './WeatherChaild';
 

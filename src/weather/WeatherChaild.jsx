@@ -82,12 +82,12 @@ const WeatherChaild = ({ tempInfo }) => {
             <div className="two-sided-section">
                   <p><i className={"wi wi-rain"}></i></p>
                           <p className="extra-info-leftside">{ pressure}<br />
-                  humidity </p>
+                  Pressure </p>
              </div>
             <div className="two-sided-section">
                   <p><i className={"wi wi-strong-wind"}></i></p>
                           <p className="extra-info-leftside">{speed}<br />
-                  humidity </p>
+                  Speed </p>
             </div>
           </div>
         </div>
